@@ -1,0 +1,2 @@
+# numpydemo
+numpy basic exercise
